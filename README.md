@@ -1,10 +1,10 @@
-# 🛡 AI Military Intelligence Dashboard
+# AI Military Intelligence Dashboard
 
 An AI-powered Military Intelligence Dashboard developed using **Python**, **Streamlit**, and **Machine Learning** to analyze historical terrorism data from the **Global Terrorism Database (GTD)**. The dashboard provides interactive visualizations, attack prediction, threat assessment, forecasting, and AI-generated intelligence reports.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project was developed as an academic/internship project to demonstrate how Machine Learning and Data Analytics can be used for intelligence analysis and decision support.
 
@@ -19,22 +19,21 @@ The dashboard allows users to:
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🏠 Interactive Home Dashboard
-- 🌍 Global Threat Map
-- 📊 Country-wise Analysis
-- 🤖 Attack Type Prediction (Random Forest)
-- 🚨 Threat Level Assessment
-- 📈 Terrorism Forecasting (Linear Regression)
-- 🧠 AI Intelligence Report Generator
-- 📂 Data Explorer
-- ⚙ Dashboard Settings
+- Interactive Home Dashboard
+- Global Threat Map
+- Country-wise Analysis
+- Attack Type Prediction (Random Forest)
+- Threat Level Assessment
+- Terrorism Forecasting (Linear Regression)
+- AI Intelligence Report Generator
+- Data Explorer
+- Dashboard Settings
 
 ---
 
-## 🛠 Technologies Used
-
+## Technologies Used
 - Python
 - Streamlit
 - Pandas
@@ -45,16 +44,13 @@ The dashboard allows users to:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The project uses the **Global Terrorism Database (GTD)**.
 
-Dataset Source:
-https://www.start.umd.edu/gtd/
-
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 AI-Military-Intelligence-Dashboard/
@@ -90,41 +86,8 @@ AI-Military-Intelligence-Dashboard/
 
 ---
 
-## ⚙ Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/AI-Military-Intelligence-Dashboard.git
-```
-
-Move into the project folder:
-
-```bash
-cd AI-Military-Intelligence-Dashboard
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Train the Machine Learning model:
-
-```bash
-python train_attack_model.py
-```
-
-Run the dashboard:
-
-```bash
-streamlit run app.py
-```
-
----
-
-## 🤖 Machine Learning
+## Machine Learning
 
 ### Attack Prediction
 
@@ -139,7 +102,7 @@ streamlit run app.py
 
 ---
 
-## 📊 Dashboard Modules
+## Dashboard Modules
 
 1. Home Dashboard
 2. Global Threat Map
@@ -153,7 +116,7 @@ streamlit run app.py
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 
 - Deep Learning based prediction models
 - Real-time data integration
@@ -163,13 +126,13 @@ streamlit run app.py
 
 ---
 
-## 📜 License
+## License
 
 This project is developed for educational and academic purposes.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Kshitij**
 
